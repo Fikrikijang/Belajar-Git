@@ -1,1 +1,1 @@
-Halo, nama saya ade fikriatul DataTransferItemList.
+console.log('Halo, nama saya ade fikriatul.');
